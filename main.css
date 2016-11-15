@@ -1,4 +1,4 @@
-	html, body
+html, body
 	{
 		height: 100%;
 	}
@@ -614,5 +614,4 @@
 	.column4
 	{
 		float: right;
-	}
-	
+}
